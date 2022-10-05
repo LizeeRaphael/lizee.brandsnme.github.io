@@ -1,0 +1,30 @@
+.upd_form{
+    background-color: green;
+    color: white;
+     padding: 50px;
+    margin: 100px;
+    border-radius: 20px;
+}
+.edit{
+    padding: 20px;
+    border: 0;
+    border-radius: 10px;
+    width: 40%;
+}
+.submit{
+    background-color: rgb(7, 10, 1);
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    /* margin-left: 200px; */
+    margin-top: 30px;
+}
+.submit:hover{
+    background-color: greenyellow;
+    color: black;
+}
+.error{
+    color: red;
+    font-size: 25px;
+}
